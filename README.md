@@ -3,4 +3,8 @@
 ### Purpose
 #### Play around with React and styles
 
+### Links
+https://opentdb.com/
+https://styled-components.com/
+
 #### Feel free to comment on my code!
